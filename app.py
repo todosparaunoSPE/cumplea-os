@@ -8,8 +8,8 @@ Created on Thu Oct 24 08:07:35 2024
 import streamlit as st
 
 # Título
-st.title("🎉 ¡Feliz cumpleaños, Rafaela! 🎉🎉🎉🎉🎉🎉 Cielito")
-
+st.title("🎉 ¡Feliz cumpleaños, Rafaela! 🎉")
+st.header("🎉 Cielito 🎉")
 # Mensaje
 mensaje = """
 Hoy celebro no solo un año más de vida, sino la maravillosa persona que eres. 
